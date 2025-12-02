@@ -6,59 +6,53 @@
 
 </div>
 
-Welcome to my digital playground! I'm a passionate developer who specializes in **Minecraft plugin development**, **bot creation**, and building cutting-edge applications across multiple tech stacks. From crafting custom Minecraft servers to automating complex workflows – I turn ideas into reality.
+Welcome to my digital playground! I'm a passionate developer who specializes in **Minecraft plugin development**, **bot creation**, and building cutting-edge applications. From crafting custom Minecraft servers to automating complex workflows – I turn ideas into reality.
 
 > 💡 *"Code is poetry written in logic."*  
-> 🎮 *Minecraft isn't just a game – it's a development platform.*  
-> 🤖 *If it can be automated, it should be automated.*
+> 🎮 *"Why play Minecraft when you can reprogram it?"*  
+> 🤖 *"If it's repetitive, I'll automate it. If it's broken, I'll fix it. If it doesn't exist, I'll build it."*
 
-## 🔥 What Makes Me Different
+## 🔥 What I Do
 
-```java
-public class ScrapedTV {
-    private String[] specialties = {
-        "Minecraft Plugin Development (Spigot/Paper/Bukkit)",
-        "Minecraft Bot Development & Automation",
-        "Custom Server Networks & Infrastructure",
-        "Discord Bot Development",
-        "Web Scraping & Data Extraction",
-        "Backend API Development",
-        "Database Architecture & Optimization"
-    };
-    
-    public void currentFocus() {
-        System.out.println("Building next-gen Minecraft plugins");
-        System.out.println("Developing intelligent automation bots");
-        System.out.println("Exploring low-level system programming");
-    }
-}
-```
+**My Specialties:**
+- 🎮 Minecraft Plugin Development (Spigot/Paper/Bukkit) - Your server, your rules, I'll code it
+- 🤖 Minecraft Bot Development - AFK farming? Automated grinding? Say less
+- 🌐 Custom Server Networks - From single servers to entire networks
+- 💬 Discord Bot Development - Moderation, fun, utility - you name it
+- 🕷️ Web Scraping & Data Extraction - If it's on the web, I can grab it
+- ⚡ Backend API Development - Solid, scalable, secure
+- 🗄️ Database Magic - Making data work for you, not against you
+
+**What I'm Currently Cooking:**
+- 🔥 Building next-gen Minecraft plugins with insane performance
+- 🤖 Developing bots that actually do what you need
+- 🧪 Experimenting with low-level programming because why not
 
 ## 🎮 Minecraft Development
 
-### 🔌 Plugin Development
-- ⚡ **High-performance** Spigot/Paper/Bukkit plugins
-- 🎨 Custom game modes, minigames & mechanics
-- 💎 Economy systems, shops & trading networks
-- 🛡️ Anti-cheat systems & server protection
-- 🌐 Multi-server synchronization & BungeeCord integration
-- 📊 Player statistics & leaderboard systems
+**Plugins I Build:**
+- ⚡ High-performance plugins that don't lag your server
+- 🎨 Custom game modes & minigames - your idea, my code
+- 💎 Economy systems, shops, trading - make your server economy thrive
+- 🛡️ Anti-cheat & protection - keep the hackers out
+- 🌐 Multi-server sync & BungeeCord magic
+- 📊 Stats, leaderboards, achievements - flex on your players
 
-### 🤖 Minecraft Bots
-- 🎯 Automated farming & resource gathering
-- 💬 Chat bots & moderation systems
-- 📈 Server monitoring & analytics
-- 🔧 Testing & QA automation
-- 🎪 Event automation & management
+**Bots That Actually Work:**
+- 🎯 AFK farming & resource grinding - sleep while it works
+- 💬 Chat bots & auto-moderation - less work for you
+- 📈 Server monitoring - know what's happening 24/7
+- 🔧 Testing automation - catch bugs before players do
+- 🎪 Event automation - run events without lifting a finger
 
 ## 🚀 Current Projects
 
 ```diff
-+ 🎮 Advanced Minecraft minigame framework with custom APIs
-+ 🤖 Multi-purpose Discord bot with AI integration
-+ 🔐 Security-focused plugin suite for server protection
-+ 📊 Real-time server analytics dashboard
-+ ⚙️ Automated deployment pipeline for MC servers
++ 🎮 Advanced minigame framework - because vanilla is boring
++ 🤖 Multi-purpose Discord bot with AI - it's smarter than most players
++ 🔐 Server security suite - keeping griefers crying
++ 📊 Real-time analytics dashboard - data visualization that doesn't suck
++ ⚙️ Automated MC server deployment - one click, boom, server's up
 ```
 
 ## 💻 Tech Arsenal
@@ -98,61 +92,49 @@ public class ScrapedTV {
 
 ---
 
-## 🎯 Specializations
+## 🎯 What I'm Good At
 
-<table>
-<tr>
-<td width="50%">
+**Game Development:**
+- Custom Minecraft plugins from scratch
+- Performance optimization - making servers run smooth
+- Multi-server networks that actually work
+- Database integration - persistent data done right
+- Custom APIs - because sometimes Spigot isn't enough
 
-### 🎮 Game Development
-```yaml
-Minecraft Plugin Development:
-  - Custom mechanics & features
-  - Performance optimization
-  - Multi-server networks
-  - Database integration
-  - API development
-```
-
-</td>
-<td width="50%">
-
-### 🤖 Automation & Bots
-```yaml
-Bot Development:
-  - Discord bots
-  - Minecraft bots
-  - Web scrapers
-  - Task automation
-  - AI integration
-```
-
-</td>
-</tr>
-</table>
+**Automation & Bots:**
+- Discord bots that don't crash every 5 minutes
+- Minecraft bots for literally anything
+- Web scrapers that get the job done
+- Task automation - if you do it twice, automate it
+- AI integration - making bots actually smart
 
 ---
 
-## 💡 Philosophy
+## 💡 My Approach
 
-```javascript
-const developer = {
-    mindset: "If it exists, it can be improved. If it doesn't, it can be created.",
-    approach: "Clean code, scalable architecture, bulletproof security",
-    motto: "Automate the boring, innovate the exciting",
-    goal: "Build tools that empower others"
-};
-```
+**Mindset:** If it exists, I can make it better. If it doesn't exist, I'll build it.
+
+**Code Philosophy:** Clean, efficient, and doesn't break at 3 AM
+
+**Motto:** Automate the boring stuff, build the cool stuff
+
+**Goal:** Create tools that actually solve problems
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+## 🌐 Let's Work Together
 
 <div align="center">
 
+[![Discord](https://img.shields.io/badge/Discord-l0op2-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ScrapedTV)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scrapedtv@proton.me)
+
+### 💰 I Take Commissions
+
+**Need a custom plugin? Bot? Automation? Hit me up on Discord: `l0op2`**
+
+*I build what you need, not what I think you need. Let's make it happen.*
 
 </div>
 
